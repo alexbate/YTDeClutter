@@ -1,6 +1,6 @@
 {
   "name": "DePlaylist",
-  "version": "0.1",
+  "version": "1.0",
   "description": "Allows you to quickly jump out of a YouTube playlist to the current standalone video",
   "icons": { "128": "icon-pa.png" },
   "background": { "scripts": ["background.js"] },
